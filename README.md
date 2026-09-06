@@ -9,7 +9,7 @@
 <br />
 
 > [!NOTE]
-> 🚀 8+ years specializing in production-grade infrastructure, DevSecOps compliance, Kubernetes orchestration, and high-availability systems for Indonesian financial institutions and hyperscale tech.
+> 🚀 **Red Hat Certified (RHCSA & Ansible Specialist)** with 8+ years specializing in production-grade infrastructure, DevSecOps compliance, Kubernetes orchestration, and high-availability systems for Indonesian financial institutions and hyperscale tech.
 
 ---
 
@@ -85,7 +85,25 @@ Financial Sector <img src="https://raw.githubusercontent.com/hjnilsson/country-f
 
 Fintech & Banking 🏦 | E-Commerce Hyperscale 🛒 | Telco Infrastructure 📡 | DevSecOps & Security 🛡️ | High Availability & SRE 📈 | Cloud Native & Kubernetes ☁️
 
+<details>
+  <summary>📜 Certifications & Education</summary>
+
+<br />
+
+### 🎓 Professional Certifications
+- 🔴 **Red Hat Certified System Administrator (RHCSA)** — *Cert #: 180-001-901*
+- 🔴 **Red Hat Certified Specialist in Ansible Automation** — *Cert #: 180-001-901*
+- 🐘 **EnterpriseDB Professional** — *PostgreSQL Advanced Server 9.6*
+- 🐘 **EnterpriseDB Associate** — *PostgreSQL Advanced Server 9.6*
+- 🛠️ **Certified Jenkins Engineer** — *Linux Academy*
+
+### 🏫 Education & Background
+- 🎓 **Bachelor of Informatics Engineering (S.Kom / S1)** — *STMIK Dharma Negara Bandung (2013 – 2017)*
+- 💻 **Computer & Network Engineering (TKJ)** — *SMK Wikrama Bogor (2009 – 2012)*
+
 ---
+
+</details>
 
 <details>
   <summary>🎡 Outside Work & Interests</summary>
