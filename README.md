@@ -37,7 +37,7 @@ Embedded at a financial-sector client defining how software ships — CI/CD and 
 SRE for the Games & Marketing division at Shopee — one of Southeast Asia's largest e-commerce platforms. Owned service reliability, CI/CD, observability, and infrastructure readiness for peak mega-campaigns (10.10, 11.11, 12.12). Scope expanded to 50% dev / 50% ops in Q1 2025.
 
 - 🔥 **Fire Drill Program:** Initiated and ran the firedrill reliability program — pre-production simulation of infrastructure and network failures (Redis failure, RDS failure, high CPU utilization, pod imbalance, and non-200 HTTP response codes) every campaign cycle, coordinated with engineering leads across teams.
-- ⚡ **Automated Troubleshooting:** Improved automated fault-resolution accuracy to **90%** with Prometheus/PromQL alert baselines wired into the internal auto-troubleshooting platform.
+- ⚡ **Automated Troubleshooting:** Calibrated and engineered Prometheus/PromQL alert baselines wired into the internal auto-troubleshooting platform.
 - 📊 **Troubleshooting Dashboards:** Designed Grafana troubleshooting dashboards for NOC and engineering, cutting mean-time-to-diagnosis (MTTD) on high-traffic campaign dates.
 - 🏢 **GCP to On-Prem Migration:** Led full migration of multi-country applications from Google Cloud Platform (GCP) to Shopee's internal data center — CI/CD, object storage (PV/PVC), MySQL, Nginx load balancing, DNS, Grafana, and Elasticsearch logging.
 - 🗄️ **Database Ops:** Supported physical MySQL → AWS RDS migration; created NOC service alert baselines integrated with auto-troubleshooting tooling.
