@@ -39,11 +39,11 @@ SRE for the Games & Marketing division at Shopee — one of Southeast Asia's lar
 - 🔥 **Fire Drill Program:** Initiated and ran the firedrill reliability program — pre-production simulation of infrastructure and network failures (Redis failure, RDS failure, high CPU utilization, pod imbalance, and non-200 HTTP response codes) every campaign cycle, coordinated with engineering leads across teams.
 - ⚡ **Automated Troubleshooting:** Calibrated and engineered Prometheus/PromQL alert baselines wired into the internal auto-troubleshooting platform.
 - 📊 **Troubleshooting Dashboards:** Designed Grafana troubleshooting dashboards for NOC and engineering, cutting mean-time-to-diagnosis (MTTD) on high-traffic campaign dates.
-- 🏢 **GCP to On-Prem Migration:** Led full migration of multi-country applications from Google Cloud Platform (GCP) to Shopee's internal data center — CI/CD, object storage (PV/PVC), MySQL, Nginx load balancing, DNS, Grafana, and Elasticsearch logging.
+- 🏢 **Shopee Blog Migration (Sole Executor):** Sole executor for the end-to-end migration of Shopee Blog (WordPress) from Google Cloud Platform (GCP) to Shopee's internal data center — covering CI/CD pipelines, persistent storage (PV/PVC), MySQL, Nginx load balancing, DNS, Grafana, and Elasticsearch logging.
 - 🗄️ **Database Ops:** Supported physical MySQL → AWS RDS migration; created NOC service alert baselines integrated with auto-troubleshooting tooling.
 - 🤖 **AI & Automation:** Onboarded teams to the SMART Platform (LLM internal tooling) as Forward Deployed Engineer — built GPT agents, bots, and tool integrations; built CI/CD automation to deploy Cocos Engine on macOS build machines for QA pipelines.
 
-**Tech stack:** Kubernetes, Docker, Prometheus, Grafana, PromQL, Node Exporter, GitLab CI, Ansible, Redis, MySQL, AWS RDS, GCP, Nginx, Elasticsearch, Cocos Engine, Linux
+**Tech stack:** Kubernetes, Docker, Prometheus, Grafana, PromQL, Node Exporter, GitLab CI, Ansible, Redis, MySQL, AWS RDS, GCP, WordPress, Nginx, Elasticsearch, Cocos Engine, Linux
 
 ---
 
